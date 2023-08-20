@@ -38,16 +38,48 @@ Encuéntrame en:
     <img src="imagen2.jpg" alt="Imagen de la universidad">
     <h2>Conclusión</h2>
     <p>Espero que esta presentación te haya dado una idea de quién soy y qué espero lograr en mi carrera como ingeniero en sistemas informáticos. Estoy comprometido con mi educación y mi desarrollo profesional, y estoy listo para enfrentar cualquier desafío que se me presente.</p>
-    | Comando                                      | Significado o Uso                                           |
-|----------------------------------------------|-------------------------------------------------------------|
-| `git config --global user.name "Henry Miranda"`  | Establecer el nombre de usuario en Git.                     |
-| `git config --global user.email johndoe@example.com` | Establecer la dirección de correo electrónico en Git.      |
-| `git help <verb>`                            | Obtener ayuda en línea para un comando específico de Git.  |
-| `git help config`                            | Obtener ayuda en línea para el comando `config` en Git.     |
-| `git config user.name`                       | Mostrar el nombre de usuario configurado en Git.           |
-| `git config --list`                          | Mostrar la lista de configuraciones en Git.                |
-| `git config --help`                          | Abrir la página de ayuda en línea para el comando `config`. |
-| `git add --help`                             | Abrir la página de ayuda en línea para el comando `add`.    |
-| `git init --help`                            | Abrir la página de ayuda en línea para el comando `init`.   |
+ 
+<table>
+  <tr>
+    <th>Comando</th>
+    <th>Significado o Uso</th>
+  </tr>
+  <tr>
+    <td><code>git config --global user.name "Henry Miranda"</code></td>
+    <td>Establecer el nombre de usuario en Git.</td>
+  </tr>
+  <tr>
+    <td><code>git config --global user.email johndoe@example.com</code></td>
+    <td>Establecer la dirección de correo electrónico en Git.</td>
+  </tr>
+  <tr>
+    <td><code>git help &lt;verb&gt;</code></td>
+    <td>Obtener ayuda en línea para un comando específico de Git.</td>
+  </tr>
+  <tr>
+    <td><code>git help config</code></td>
+    <td>Obtener ayuda en línea para el comando <code>config</code> en Git.</td>
+  </tr>
+  <tr>
+    <td><code>git config user.name</code></td>
+    <td>Mostrar el nombre de usuario configurado en Git.</td>
+  </tr>
+  <tr>
+    <td><code>git config --list</code></td>
+    <td>Mostrar la lista de configuraciones en Git.</td>
+  </tr>
+  <tr>
+    <td><code>git config --help</code></td>
+    <td>Abrir la página de ayuda en línea para el comando <code>config</code>.</td>
+  </tr>
+  <tr>
+    <td><code>git add --help</code></td>
+    <td>Abrir la página de ayuda en línea para el comando <code>add</code>.</td>
+  </tr>
+  <tr>
+    <td><code>git init --help</code></td>
+    <td>Abrir la página de ayuda en línea para el comando <code>init</code>.</td>
+  </tr>
+</table>
 
     <button>Contactame</button>
