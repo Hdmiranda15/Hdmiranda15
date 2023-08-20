@@ -38,4 +38,16 @@ Encuéntrame en:
     <img src="imagen2.jpg" alt="Imagen de la universidad">
     <h2>Conclusión</h2>
     <p>Espero que esta presentación te haya dado una idea de quién soy y qué espero lograr en mi carrera como ingeniero en sistemas informáticos. Estoy comprometido con mi educación y mi desarrollo profesional, y estoy listo para enfrentar cualquier desafío que se me presente.</p>
+    | Comando                                      | Significado o Uso                                           |
+|----------------------------------------------|-------------------------------------------------------------|
+| `git config --global user.name "Henry Miranda"`  | Establecer el nombre de usuario en Git.                     |
+| `git config --global user.email johndoe@example.com` | Establecer la dirección de correo electrónico en Git.      |
+| `git help <verb>`                            | Obtener ayuda en línea para un comando específico de Git.  |
+| `git help config`                            | Obtener ayuda en línea para el comando `config` en Git.     |
+| `git config user.name`                       | Mostrar el nombre de usuario configurado en Git.           |
+| `git config --list`                          | Mostrar la lista de configuraciones en Git.                |
+| `git config --help`                          | Abrir la página de ayuda en línea para el comando `config`. |
+| `git add --help`                             | Abrir la página de ayuda en línea para el comando `add`.    |
+| `git init --help`                            | Abrir la página de ayuda en línea para el comando `init`.   |
+
     <button>Contactame</button>
