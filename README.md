@@ -40,9 +40,8 @@ Encuéntrame en:
     <p>Espero que esta presentación te haya dado una idea de quién soy y qué espero lograr en mi carrera como ingeniero en sistemas informáticos. Estoy comprometido con mi educación y mi desarrollo profesional, y estoy listo para enfrentar cualquier desafío que se me presente.</p>
 
 
-
-
- <style>
+<head>
+<style>
   table {
     border-collapse: collapse;
     width: 100%;
@@ -57,8 +56,8 @@ Encuéntrame en:
     background-color: #f2f2f2;
   }
 </style>
-
-
+</head>
+<body>
 
 <table>
   <tr>
@@ -103,4 +102,5 @@ Encuéntrame en:
   </tr>
 </table>
 
+</body>
     <button>Contactame</button>
