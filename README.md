@@ -38,7 +38,28 @@ Encuéntrame en:
     <img src="imagen2.jpg" alt="Imagen de la universidad">
     <h2>Conclusión</h2>
     <p>Espero que esta presentación te haya dado una idea de quién soy y qué espero lograr en mi carrera como ingeniero en sistemas informáticos. Estoy comprometido con mi educación y mi desarrollo profesional, y estoy listo para enfrentar cualquier desafío que se me presente.</p>
- 
+
+
+
+
+ <style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ccc;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+
+
+
 <table>
   <tr>
     <th>Comando</th>
